@@ -255,7 +255,7 @@ function showResult() {
 
     } else {
         message = "Keep practicing! ";
-        meme = "../images/";
+        meme = "../images/sad.jpg";
     }
 
     document.querySelector(".w-full.max-w-4xl").innerHTML = `
